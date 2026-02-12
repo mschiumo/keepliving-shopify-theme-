@@ -509,3 +509,20 @@ a:hover {
     grid-template-columns: 1fr;
   }
 }
+
+/* Announcement Bar */
+.announcement-bar {
+  padding: 0.75rem var(--spacing-sm);
+  text-align: center;
+}
+
+.announcement-bar__wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.announcement-bar__message {
+  margin: 0;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
