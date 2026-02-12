@@ -77,3 +77,5 @@ Edit sections in Shopify theme editor:
 - Homepage sections: Sections tab
 - Products: Products → All products
 
+
+Last updated: Thu Feb 12 13:25:56 UTC 2026
